@@ -42,10 +42,10 @@ http://www.ai-start.com/dl2017/
 
 #### 第三阶段 Paper
 
-目标：熟悉我们的代码仓库、数据集以及可视化工具的使用。
+目标：熟悉我们的代码、数据集以及相关可视化工具的使用。
 
 github仓库：https://github.com/JiamingCai469/SegRegBase4MediaLab_v2
 
-数据集下载：xxx
+数据集下载：https://drive.google.com/file/d/1hn1mNtFxTqGk_LNJ5wGTyvO5gSLySpsJ/view?usp=sharing
 
 可视化工具：ITK-SNAP
