@@ -48,4 +48,6 @@ github仓库：https://github.com/JiamingCai469/SegRegBase4MediaLab_v2
 
 数据集下载：https://drive.google.com/file/d/1hn1mNtFxTqGk_LNJ5wGTyvO5gSLySpsJ/view?usp=sharing
 
+Atlas下载：https://drive.google.com/file/d/1IEa3KT-o8yqXWNyQYbqzU9UboaWyq06V/view?usp=sharing
+
 可视化工具：ITK-SNAP
